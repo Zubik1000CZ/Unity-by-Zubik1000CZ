@@ -1,0 +1,8 @@
+1)	Extrahuj obsah obou zip souborů do stejné složky 
+	(musel jsem to rozdělit, protože github podporuje max 25MB na soubor a celé to mělo asi 35MB)
+
+2)	Spusť Find someone who asked.exe
+
+3)	Najdi toho, kdo se ptal.
+
+4)	Enjoy.
